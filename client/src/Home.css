@@ -1,0 +1,23 @@
+.home-container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .exercise-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .exercise-list li {
+    padding: 10px;
+    background: lightblue;
+    margin: 5px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  .exercise-list li:hover {
+    background: darkblue;
+    color: white;
+  }
+  
